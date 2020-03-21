@@ -3,7 +3,7 @@
 ## 为我女儿写的公众号
 
 
-![公众号二维码](./%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg "qjiedechuanjiabao")
+![公众号二维码](https://github.com/dongwenting/qjiedechuanjiabao/blob/master/qjiedechuanjiabao.jpg)
 
 我读过四个专业，交通运输、信息科学、通信工程、遥感地理，读过很多专业书籍  
 从事的行业也需要了解经济学、房地产、金融等知识
